@@ -1,0 +1,11 @@
+TP7 insertar palabra dentro de otras 
+  --porque la logica no funciona 
+
+PARCIAL GestionTucuman
+
+no imprime las condiciones solicitadas 
+
+
+PARCIAL agenciaDeAuto
+
+

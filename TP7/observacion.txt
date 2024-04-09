@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+ver el concepto de puntero indexado 
+
+ver arreglos como puntero ejemplos simples
+
+que hace malloc cuando me paso de la reserva 
+
+
+
+importante volver el putero al inicio , arreglo = arreglo - tama 
